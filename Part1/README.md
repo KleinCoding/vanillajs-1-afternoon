@@ -139,6 +139,7 @@ In this step, we will put either an `X` or an `O` as the content of the square t
 - Inside the if statement lets set the `clickedElement.innerText` equal to `X`. In the else clause, set it to `O`. 
 
 </details>
+\
 
 ### Solution
 
